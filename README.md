@@ -11,3 +11,6 @@
  * Sit back, relax and watch the show
  
  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/faisalhussaini/flappy_bird/flappy_bird.py)
+
+
+![flappy_bird](imgs/final.png)
